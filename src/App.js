@@ -1,4 +1,4 @@
-import Dashboard from './containers/Home';
+import { Dashboard, Contacts, Projects } from './containers';
 import './App.css';
 
 function App() {
