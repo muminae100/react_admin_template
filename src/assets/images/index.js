@@ -2,7 +2,7 @@ import Like from './like.png';
 import Favicon from './favicon.png';
 import Logo from './logo.png';
 import LogoFull from './logo-full.png';
-import LogoText from './logo-text.png';
+import LogoText from './logo-text.JPG';
 import Qr from './qr.png';
 import Person from './1.jpg';
 
